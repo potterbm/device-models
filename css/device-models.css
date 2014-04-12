@@ -12,6 +12,10 @@ body {
 	font-size: 2em;
 	font-weight: 300;
 	text-align: center;
+	
+	display: block;
+	margin: 2em 0;
+	padding: 0;
 }
 
 .apple-logo:before {
