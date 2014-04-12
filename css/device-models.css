@@ -15,7 +15,8 @@ body {
 	content: "\f179";
 	font-family: FontAwesome;
 	font-size: 2em;
-	line-height: 1;
+	line-height: 2;
+	text-align: center;
 	
 	display: inline-block;
 	margin: 0;
