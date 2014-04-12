@@ -6,3 +6,29 @@ body {
 	font-size: 1em;
 	
 }
+
+.apple-logo {
+	border: 1px solid rgba(0, 0, 0, 0.4);
+	border-radius: 50%;
+	color: rgba(0, 0, 0, 0.4);
+	
+	font-family: FontAwesome;
+	font-size: 5em;
+	line-height: 1;
+	
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	height: 5em;
+	width: 5em;
+	
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -2.5em;
+	margin-left: -2.5em;
+}
+
+.apple-logo:before {
+	content: "\f179";
+}
