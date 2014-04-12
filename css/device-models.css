@@ -7,6 +7,13 @@ body {
 	
 }
 
+.device-title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 300;
+	text-align: center;
+}
+
 .apple-logo:before {
 	border: 1px solid rgba(0, 0, 0, 0.4);
 	border-radius: 50%;
