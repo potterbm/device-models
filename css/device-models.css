@@ -58,9 +58,33 @@ body {
 	left: 50%;
 	margin-left: -40px;
 	
-	-webkit-transform: rotateZ(-20deg);
-	-moz-transform: rotateZ(-20deg);
-	-ms-transform: rotateZ(-20deg);
-	-o-transform: rotateZ(-20deg);
-	transform: rotateZ(-20deg);
+	-webkit-transform: rotateZ(-10deg);
+	-moz-transform: rotateZ(-10deg);
+	-ms-transform: rotateZ(-10deg);
+	-o-transform: rotateZ(-10deg);
+	transform: rotateZ(-10deg);
+}
+
+.samsung-logo:before {
+	color: rgba(0, 0, 0, 1);
+	
+	content: "Samsung";
+	
+	font-family: 'Roboto Condensed';
+	font-size: 20px;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	
+	-webkit-transform: rotateZ(10deg);
+	-moz-transform: rotateZ(10deg);
+	-ms-transform: rotateZ(10deg);
+	-o-transform: rotateZ(10deg);
+	transform: rotateZ(10deg);
+	
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
 }
