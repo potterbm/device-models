@@ -51,6 +51,7 @@ body {
 	padding: 0;
 	height: 25px;
 	width: 110px;
+	overflow: hidden;
 	
 	position: absolute;
 	top: 50%;
