@@ -1,8 +1,12 @@
 
 .galaxy-s5-model {
 	background-color: rgba(0, 0, 0, 0.95);
-	border: 50px solid rgba(255, 255, 255, 1);
+	border: 5px solid rgba(255, 255, 255, 0.95);
+	border-top-width: 40px;
+	border-bottom-width: 20px;
 	border-radius: 50px;
+	
+	box-shadow: 0px 0px 0px 4px rgba(0, 0, 0, 0.6);
 	
 	display: block;
 	margin: 0 auto;
