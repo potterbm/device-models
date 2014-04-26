@@ -49,18 +49,18 @@ body {
 	display: block;
 	margin: 0;
 	padding: 0;
-	height: 15px;
-	width: 45px;
+	height: 20px;
+	width: 80px;
 	
 	position: absolute;
 	top: 50%;
-	margin-top: -7.5px;
+	margin-top: -10px;
 	left: 50%;
-	margin-left: -22.5px;
+	margin-left: -40px;
 	
-	-webkit-transform: rotateZ(22.5deg);
-	-moz-transform: rotateZ(22.5deg);
-	-ms-transform: rotateZ(22.5deg);
-	-o-transform: rotateZ(22.5deg);
-	transform: rotateZ(22.5deg);
+	-webkit-transform: rotateZ(-20deg);
+	-moz-transform: rotateZ(-20deg);
+	-ms-transform: rotateZ(-20deg);
+	-o-transform: rotateZ(-20deg);
+	transform: rotateZ(-20deg);
 }
