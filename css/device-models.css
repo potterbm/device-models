@@ -76,6 +76,10 @@ body {
 	text-align: center;
 	text-transform: uppercase;
 	
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	
 	-webkit-transform: rotateZ(10deg);
 	-moz-transform: rotateZ(10deg);
 	-ms-transform: rotateZ(10deg);
