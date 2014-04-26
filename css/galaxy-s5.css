@@ -41,8 +41,8 @@
 	border-radius: 50%;
 	box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.2),
 				0px 0px 0px 5px rgba(0, 0, 0, 0.7),
-				-28px 6px 0px -1px rgba(0, 0, 0, 0.6),
-				-48px 6px 0px -1px rgba(0, 0, 0, 0.6);
+				-28px 3px 0px -1px rgba(0, 0, 0, 0.6),
+				-48px 3px 0px -1px rgba(0, 0, 0, 0.6);
 	
 	content: "";
 	
@@ -50,10 +50,10 @@
 	display: block;
 	margin: 0;
 	padding: 0;
-	height: 12px;
-	width: 12px;
+	height: 13px;
+	width: 13px;
 	
 	position: absolute;
-	top: -30px;
+	top: -25px;
 	right: 25px;
 }
