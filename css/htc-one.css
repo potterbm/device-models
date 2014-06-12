@@ -604,13 +604,13 @@
 }
 
 .htc-logo:before {
-	color: rgba(255, 255, 255, 0.25);
+	color: rgba(255, 255, 255, 0.4);
 	
 	content: "htc";
 	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
 	line-height: 50px;
-	font-weight: 100;
+	font-weight: 300;
 	text-align: center;
 	text-transform: lowercase;
 	
