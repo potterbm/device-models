@@ -24,12 +24,30 @@
 	background-color: rgba(0, 0, 0, 1);
 	border-radius: 50%;
 	border: 3px solid rgba(255, 255, 255, 0.2);
+	
+	/* There are 47 of them */
 	box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 1),
 				0px 0px 0px 4px rgba(255, 255, 255, 0.25),
 				0px 0px 0px 7px rgba(0, 0, 0, 0.95),
 				
-				-300px 0px 0px 0px rgba(0, 0, 0, 0.95),
-				-310px 0px 0px 0px rgba(0, 0, 0, 0.95);
+				-325px 6px 0px -1px rgba(0, 0, 0, 0.95),
+				-340px 6px 0px -1px rgba(0, 0, 0, 0.95),
+				
+				-300px -2px 0px -4px rgba(0, 0, 0, 0.95),
+				-300px 0px 0px -4px rgba(0, 0, 0, 0.95),
+				-300px 2px 0px -4px rgba(0, 0, 0, 0.95),
+				-300px 4px 0px -4px rgba(0, 0, 0, 0.95),
+				
+				-295px -2px 0px -4px rgba(0, 0, 0, 0.95),
+				-295px 0px 0px -4px rgba(0, 0, 0, 0.95),
+				-295px 2px 0px -4px rgba(0, 0, 0, 0.95),
+				-295px 4px 0px -4px rgba(0, 0, 0, 0.95),
+				
+				-290px -2px 0px -4px rgba(0, 0, 0, 0.95),
+				-290px 0px 0px -4px rgba(0, 0, 0, 0.95),
+				-290px 2px 0px -4px rgba(0, 0, 0, 0.95),
+				-290px 4px 0px -4px rgba(0, 0, 0, 0.95),
+				;
 	
 	content: "";
 	
