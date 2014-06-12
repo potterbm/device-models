@@ -33,11 +33,6 @@
 				-325px 6px 0px -1px rgba(0, 0, 0, 0.95),
 				-340px 6px 0px -1px rgba(0, 0, 0, 0.95),
 				
-				-300px -4px 0px -4px rgba(0, 0, 0, 0.75),
-				-300px 0px 0px -4px rgba(0, 0, 0, 0.75),
-				-300px 4px 0px -4px rgba(0, 0, 0, 0.75),
-				-300px 8px 0px -4px rgba(0, 0, 0, 0.75),
-				
 				-295px -4px 0px -4px rgba(0, 0, 0, 0.75),
 				-295px 0px 0px -4px rgba(0, 0, 0, 0.75),
 				-295px 4px 0px -4px rgba(0, 0, 0, 0.75),
@@ -296,12 +291,7 @@
 				-40px -4px 0px -4px rgba(0, 0, 0, 0.75),
 				-40px 0px 0px -4px rgba(0, 0, 0, 0.75),
 				-40px 4px 0px -4px rgba(0, 0, 0, 0.75),
-				-40px 8px 0px -4px rgba(0, 0, 0, 0.75),
-				
-				-35px -4px 0px -4px rgba(0, 0, 0, 0.75),
-				-35px 0px 0px -4px rgba(0, 0, 0, 0.75),
-				-35px 4px 0px -4px rgba(0, 0, 0, 0.75),
-				-35px 8px 0px -4px rgba(0, 0, 0, 0.75)
+				-40px 8px 0px -4px rgba(0, 0, 0, 0.75)
 				;
 	
 	content: "";
