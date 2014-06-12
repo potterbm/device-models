@@ -581,7 +581,7 @@
 	
 	content: "\f104 \f015";
 	font-family: FontAwesome;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 50px;
 	letter-spacing: 200px;
 	
@@ -604,7 +604,7 @@
 }
 
 .htc-logo:before {
-	color: rgba(255, 255, 255, 0.4);
+	color: rgba(255, 255, 255, 0.5);
 	
 	content: "htc";
 	font-family: 'Roboto', sans-serif;
