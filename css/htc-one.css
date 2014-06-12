@@ -583,11 +583,11 @@
 	font-family: FontAwesome;
 	font-size: 18px;
 	line-height: 3;
-	letter-spacing: 250px;
+	letter-spacing: 200px;
 	
 	display: block;
 	margin: 0;
-	padding: 0 75px;
+	padding: 0 100px;
 	
 	position: absolute;
 	bottom: 0;
