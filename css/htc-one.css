@@ -559,7 +559,7 @@
 				-40px 806px 0px -4px rgba(0, 0, 0, 0.65),
 				-40px 810px 0px -4px rgba(0, 0, 0, 0.65),
 				-40px 814px 0px -4px rgba(0, 0, 0, 0.65),
-				-40px 818px 0px -4px rgba(0, 0, 0, 0.75)
+				-40px 818px 0px -4px rgba(0, 0, 0, 0.65)
 				;
 	
 	content: "";
@@ -575,7 +575,7 @@
 	right: 40px;
 }
 
-.htc-model:after {
+.htc-one-model:after {
 	background-color: rgba(255, 255, 255, 0.1);
 	color: rgba(255, 255, 255, 0.2);
 	
