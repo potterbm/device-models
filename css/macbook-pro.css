@@ -11,6 +11,8 @@
 	padding: 0;
 	height: 525px;
 	width: 840px;
+	
+	position: relative;
 }
 
 .macbook-pro-model:before {
