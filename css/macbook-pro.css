@@ -40,8 +40,8 @@
 
 .macbook-pro-model:after {
 	border-top: 30px #dddddd;
-	border-bottom-left-radius: 50%;
-	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 40%;
+	border-bottom-right-radius: 40%;
 	background-color: #cccccc;
 	
 	content: "";
@@ -49,9 +49,9 @@
 	display: block;
 	margin: 0;
 	height: 30px;
-	width: 1040PX;
+	width: 1140px;
 	
 	position: absolute;
 	bottom: -10px;
-	left: -100px;
+	left: -150px;
 }
