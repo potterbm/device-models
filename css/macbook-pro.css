@@ -3,6 +3,7 @@
 .macbook-pro-model {
 	background-color: #ffffff;
 	border: 70px solid rgba(0, 0, 0, 0.9);
+	border-bottom: none;
 	border-radius: 50px;
 	box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.4), 0px 0px 0px 2px rgba(0, 0, 0, 0.1);
 	
