@@ -36,11 +36,14 @@
 }
 
 .macbook-pro-model:after {
+	background-color: #eeeeee;
 	content: "";
 	
 	display: block;
 	height: 0;
+	height: 80px;
 	width: 100%;
 	
 	position: absolute;
+	bottom: 0;
 }
