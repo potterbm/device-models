@@ -39,7 +39,7 @@
 }
 
 .macbook-pro-model:after {
-	border-top: 30px #dddddd;
+	border-top: 30px solid #dddddd;
 	border-bottom-left-radius: 40%;
 	border-bottom-right-radius: 40%;
 	background-color: #cccccc;
