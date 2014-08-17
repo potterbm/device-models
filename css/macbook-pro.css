@@ -41,8 +41,8 @@
 .macbook-pro-model:after {
 	border: 70px solid #cccccc;
 	border-bottom-width: 30px;
-	border-bottom-left-radius: 100px;
-	border-bottom-right-radius: 100px;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 200px;
 	border-top: none;
 	background-color: #dddddd;
 	content: "";
@@ -54,4 +54,5 @@
 	
 	position: absolute;
 	bottom: 0;
+	left: -70px;
 }
