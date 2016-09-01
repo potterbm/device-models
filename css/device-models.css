@@ -7,7 +7,9 @@ body {
 	
 }
 
-.device-title {
+.device-title,
+.page-title
+{
 	font-family: 'Roboto', sans-serif;
 	font-size: 3em;
 	font-weight: 300;
@@ -16,6 +18,18 @@ body {
 	display: block;
 	margin: 2em 0;
 	padding: 0;
+}
+
+.page-description {
+  font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	text-align: center;
+	
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+  max-width: 35rem;
 }
 
 .apple-logo:before {
